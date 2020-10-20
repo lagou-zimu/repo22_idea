@@ -54,3 +54,25 @@ public class User {
         this.birthday = birthday;
     }
 }
+
+    public  void test2() {
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+        System.out.println(211111);
+             System.out.println(211111);
+             System.out.println(211111);
+             System.out.println(211111);
+             System.out.println(211111);
+             System.out.println(211111);
+        System.out.println(211111);
+    }
